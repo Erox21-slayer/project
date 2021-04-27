@@ -1,0 +1,35 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable type="KIND_SpriteKind" id="iDhv[aUZz=tn!Y^qIM`W">Player</variable><variable type="KIND_SpriteKind" id="usIB:r[jmlKfAlte5,?=">Projectile</variable><variable type="KIND_SpriteKind" id="D.hUm,[5LXt-%}B08V*,">Food</variable><variable type="KIND_SpriteKind" id="Zd}0sRR.nDxSHjye)6-5">Enemy</variable><variable id="n0BJrlG@bs2Ncf8vl]js">mySprite</variable></variables><block type="pxt-on-start" id="5)%*]_80rH(vzdT;Hsw4" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="{fq_Pe!sXgLPCBt$~SQ]"><field name="VAR" id="n0BJrlG@bs2Ncf8vl]js">mySprite</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="nDb6dQxN`O}qcognoQ.J"><value name="img"><shadow type="screen_image_picker" id="y+Yn+;%Pa(}XCaqHf^]{"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"y+Yn+;%Pa(}XCaqHf^]{"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="2q-^pCL;Kgzb:q8HiyvB"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="variables_set" id="6#Y{}#oUG/K9]O:D.y,V"><field name="VAR" id="n0BJrlG@bs2Ncf8vl]js">mySprite</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="jMqgkolazOp,yS:!{E1O"><value name="img"><shadow type="screen_image_picker" id="3s[{mrvfWN@{ztf@eW-R"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"3s[{mrvfWN@{ztf@eW-R"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="pGg=uRW5hU}3(S=)`)A@"><field name="MEMBER">Player</field></shadow></value></block></value></block></next></block></statement></block></xml>
